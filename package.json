@@ -1,6 +1,6 @@
 {
-  "name": "@hogiagroup/enumerable",
-  "version": "5.1.6",
+  "name": "enumerable-lite",
+  "version": "0.0.1",
   "description": "Utilities for Iterable",
   "readme": "README.md",
   "main": "dist/index.js",
@@ -15,26 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hogiagroup/enumerable"
+    "url": "https://github.com/Saviio/enumerable"
   },
   "release-it": {
-    "github": {
-      "release": true
-    },
     "npm": {
       "publishPath": "dist",
       "publish": false
     }
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@hogiagroup"
-  },
   "keywords": [
-    "hogia",
     "enumerable",
     "iterable"
   ],
-  "author": "Hogia Business Products AB",
   "license": "MIT",
   "dependencies": {
     "big.js": "6.0.3"
