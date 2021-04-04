@@ -20,7 +20,7 @@
   "release-it": {
     "npm": {
       "publishPath": "dist",
-      "publish": false
+      "publish": true
     }
   },
   "keywords": [
