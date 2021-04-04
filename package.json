@@ -1,6 +1,6 @@
 {
   "name": "enumerable-lite",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Utilities for Iterable",
   "readme": "README.md",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
   },
   "release-it": {
     "npm": {
-      "publishPath": "dist",
+      "publishPath": "./dist",
       "publish": true
     }
   },
